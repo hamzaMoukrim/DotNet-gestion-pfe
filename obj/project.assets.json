@@ -7593,19 +7593,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Reda El Ouahabi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user\\Desktop\\DotNet-gestion-pfe\\pfe.csproj",
       "projectName": "pfe",
       "projectPath": "C:\\Users\\user\\Desktop\\DotNet-gestion-pfe\\pfe.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\DotNet-gestion-pfe\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Reda El Ouahabi\\Desktop\\Desktop\\DotNet-gestion-pfe\\pfe.csproj",
+      "projectName": "pfe",
+      "projectPath": "C:\\Users\\Reda El Ouahabi\\Desktop\\Desktop\\DotNet-gestion-pfe\\pfe.csproj",
+      "packagesPath": "C:\\Users\\Reda El Ouahabi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Reda El Ouahabi\\Desktop\\Desktop\\DotNet-gestion-pfe\\obj\\",
+>>>>>>> e6157c26d19a6b3bee3b82ca994888ef401cc0dc
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Reda El Ouahabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7678,7 +7686,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
